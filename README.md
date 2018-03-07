@@ -1,6 +1,8 @@
 # NeuroNER
-
 下述是基本环境，中文使用请看中文训练测试使用说明
+测试文件，训练输出日志，中文训练好的模型都在
+https://pan.baidu.com/s/1-QgThwA3vQfAnxK4vibSNA
+密码:ar8x
 [![Build Status](https://travis-ci.org/Franck-Dernoncourt/NeuroNER.svg?branch=master)](https://travis-ci.org/Franck-Dernoncourt/NeuroNER)
 
 NeuroNER is a program that performs named-entity recognition (NER). Website: [neuroner.com](http://neuroner.com).
